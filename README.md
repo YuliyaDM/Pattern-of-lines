@@ -1,8 +1,3 @@
-# Pattern-of-lines
+# pattern-of-lines
 
-So, someone can ask me: where did u get these funny icons for ur website?
-
-The answer is:
-https://www.youtube.com/watch?v=Yw0OeCMB1MM
-
-Enjoy!)
+### The source of funny icons on my website is [here](https://www.youtube.com/watch?v=Yw0OeCMB1MM).
