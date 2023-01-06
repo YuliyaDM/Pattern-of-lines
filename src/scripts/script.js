@@ -126,6 +126,7 @@ class Draw{
     }
 };
 
+/*
 // Effects for Site-icon and Document-title
 
 const LinkOfIcon = document.querySelectorAll('link')[0];
@@ -144,3 +145,4 @@ window.addEventListener('focus', () => {
     LinkOfIcon.href = 'src/images/icon-of-site.png';
     document.title = 'Effect';
 })
+*/
